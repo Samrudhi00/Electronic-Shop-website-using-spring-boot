@@ -44,7 +44,8 @@ MYSQL WORKBENCH
 
 
 
-![MYSQL INSTANCE](https://github.com/Samrudhi00/Electronic-Shop-website-using-spring-boot/assets/89694069/ee7fabb4-d526-4961-9aa5-46a4e0bcf661)
+![MYSQL INSTANCE](https://github.com/Samrudhi00/Electronic-Shop-website-using-spring-boot/assets/89694069/f76a4901-c8ec-418e-aee2-bb42df1f61ad)
+
 
 
 
